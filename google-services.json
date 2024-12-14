@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "24526351781",
+    "project_id": "labw12-mcpp",
+    "storage_bucket": "labw12-mcpp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24526351781:android:210c56e261eb8c9bd78c4c",
+        "android_client_info": {
+          "package_name": "com.anonymous.LAB_WEEK12_MCPP"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvPI_OC2gWs6ddCcQWrCVeB2rbSIJFcHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
